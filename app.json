@@ -69,7 +69,7 @@
         },
         "START_IMG": {
             "description": "Telegraph link of the image which will be shown at start command.",
-            "required": true,
+            "required": false,
             "value": ""
         },
         "HELP_IMG": {
